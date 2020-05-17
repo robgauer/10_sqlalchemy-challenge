@@ -26,43 +26,44 @@ Files located at folder, Link:
 ## DISPLAY of OUTPUT DATA and OUTPUT IMAGES
 ### Pandas data output file is located at folder, Link:  
 #### Precipitation Describe Dataframe
-  https://github.com/robgauer/sqlalchemy-challenge/tree/master/Output_Data) 
+ https://github.com/robgauer/sqlalchemy-challenge/tree/master/Output_Data) 
   Select file:  Precipitation_Describe_DataFrame.csv
-  
+
 ### Data Analysis Charts
 #### Precipitation Levels Per Day Over the Past Year
-![Precipitation_Levels_Per_Day_Over_the_Past_Year.png](Output_Images/Precipitation_Levels_Per_Day_Over_the_Past_Year.png)
+#![Precipitation_Levels_Per_Day_Over_the_Past_Year.png](https://github.com/robgauer/sqlalchemy-challenge/blob/master/#Output_Images/Precipitation_Levels_Per_Day_Over_the_Past_Year.png)
+(https://github.com/robgauer/sqlalchemy-challenge/blob/master/Output_Images/Precipitation_Levels_Per_Day_Over_the_Past_Year.png)
 
 #### Temperature Observation Data (TOBS)
-![Temperature_Observation_Data_TOBS.png](Output_Images/Temperature_Observation_Data_TOBS.png)
+![Temperature_Observation_Data_TOBS.png](https://github.com/robgauer/sqlalchemy-challenge/blob/master/Output_Images/Flask-TOBS.PNG)
 
 #### June and December Comparison t-test
-![June_and_December_Comparison_t_test.png](Output_Images/June_and_December_Comparison_t_test.png)
+![June_and_December_Comparison_t_test.png](https://github.com/robgauer/sqlalchemy-challenge/blob/master/Output_Images/June_and_December_Comparison_t_test.png)
 
 #### Trip Average Temperature
-![Trip_Average_Temperature.png](Output_Images/Trip_Average_Temperature.png)
+![Trip_Average_Temperature.png](https://github.com/robgauer/sqlalchemy-challenge/blob/master/Output_Images/Trip_Average_Temperature.png)
 
 #### Daily Normals Area Chart
-![Daily_Normals_Area_Chart.png](Output_Images/Daily_Normals_Area_Chart.png)
+![Daily_Normals_Area_Chart.png](https://github.com/robgauer/sqlalchemy-challenge/blob/master/Output_Images/Daily_Normals_Area_Chart.png)
 
 ### Data Visualization from Flask Web Development/Server excercise
 #### Route/ (Home Page)
-![Flask-Home-Page.PNG](Output_Images/Flask-Home-Page.PNG)
+![Flask-Home-Page.PNG](https://github.com/robgauer/sqlalchemy-challenge/blob/master/Output_Images/Flask-Home-Page.PNG)
 
 #### Route/Precipitation
-![Flask-Precipitation.PNG](Output_Images/Flask-Precipitation.PNG)
+![Flask-Precipitation.PNG](https://github.com/robgauer/sqlalchemy-challenge/blob/master/Output_Images/Flask-Precipitation.PNG)
 
 #### Route/Stations List and Information
-![Flask-Stations.PNG](Output_Images/Flask-Stations.PNG)
+![Flask-Stations.PNG](https://github.com/robgauer/sqlalchemy-challenge/blob/master/Output_Images/Flask-Stations.PNG)
 
 #### Route/TEMPERATURE OBSERVATION DATA (TOBS) MOST ACTIVE STATION for LAST YEAR
-![Flask-TOBS.PNG](Output_Images/Flask-TOBS.PNG)
+![Flask-TOBS.PNG](https://github.com/robgauer/sqlalchemy-challenge/blob/master/Output_Images/Flask-TOBS.PNG)
 
 #### Route/TEMPERATURES by START DATE
-![Flask-Temps-For-Start-Date-Forward.PNG](Output_Images/Flask-Temps-For-Start-Date-Forward.PNG)
+![Flask-Temps-For-Start-Date-Forward.PNG](https://github.com/robgauer/sqlalchemy-challenge/blob/master/Output_Images/Flask-Temps-For-Start-Date-Forward.PNG)
 
 #### Route/TEMPERATURE RANGE by START and END DATE
-![Flask-Temps-for-Start-End-Date-Range.PNG](Output_Images/Flask-Temps-for-Start-End-Date-Range.PNG)
+![Flask-Temps-for-Start-End-Date-Range.PNG](https://github.com/robgauer/sqlalchemy-challenge/blob/master/Output_Images/Flask-Temps-for-Start-End-Date-Range.PNG)
 
 
 ### BACKGROUND & HOMEWORK INSTRUCTIONS
